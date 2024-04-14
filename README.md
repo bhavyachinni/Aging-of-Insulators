@@ -58,6 +58,10 @@
 <h2>Examples :</h2>
 <p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for future purpose.</b></p>
 ![Age of Insulator](https://github.com/bhavyachinni/Aging-of-Insulators/assets/136558331/69ef91b6-8b15-4f2b-87f7-14940d79bdda)
+
+
+
+
 ![data of insulator aging](https://github.com/bhavyachinni/Aging-of-Insulators/assets/136558331/35235baa-37e9-407f-a760-d5f45d028751)
 
    
